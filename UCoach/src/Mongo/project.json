@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "description": "Mongo Class Library",
+  "authors": [ "Ilya" ],
+    "frameworks": {
+        "net451": {
+            "dependencies": {
+            }
+        }
+    },
+    "dependencies": {
+        "MongoDB.Driver": "2.2.4",
+        "RhinoMocks": "3.6.1"
+    }
+}

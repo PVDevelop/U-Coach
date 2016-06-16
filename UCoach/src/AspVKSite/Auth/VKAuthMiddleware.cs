@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNet.Builder;
-using Microsoft.AspNet.Http;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Microsoft.AspNetCore.Http;
 using System.Threading.Tasks;
 
 namespace AspVKSite.Auth

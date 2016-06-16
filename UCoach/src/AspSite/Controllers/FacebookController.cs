@@ -1,11 +1,7 @@
-﻿using Microsoft.AspNet.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Net.Http;
+﻿using System.Net.Http;
 using System.Text;
 using Newtonsoft.Json.Linq;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AspSite.Controllers
 {

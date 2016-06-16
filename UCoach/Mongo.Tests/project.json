@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "Mongo.Tests Class Library",
+  "authors": [ "Ilya" ],
+    "frameworks": {
+        "net451": {
+            "dependencies": {
+                "Mongo": "1.0.0-*",
+                "MongoDB.Driver": "2.2.4"
+            }
+        }
+    },
+    "dependencies": {
+        "NUnit": "3.2.1"
+    }
+}
